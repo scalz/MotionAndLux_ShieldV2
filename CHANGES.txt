@@ -1,0 +1,14 @@
+Dec. 4 2016 (Scalz):
+    MotionAndLux_ShieldV2
+	
+    Features:
+		- Size 	23.8*21.6 (mm) 
+		- Low power PIR : 1.8uA
+		- footprint for OPT3001 Lux sensor
+		- 3.3V max
+		- MYSXConnector
+
+   
+    Known issues: 
+
+
